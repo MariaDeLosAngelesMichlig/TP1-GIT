@@ -3,4 +3,4 @@
 ## Integrantes del grupo
 
 - Rollan, Agustina
-- Michlig, María de los Angeles
+- [María de los Ángeles Michlig](maria_michlig.md)
