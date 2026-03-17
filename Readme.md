@@ -2,8 +2,8 @@
 
 ## Integrantes del grupo
 
-- [Rollan, Agustina](agostina_rollan.md)
-- [Michlig, María de los Ángeles](angeles_michlig.md)
+- [Rollan, Agustina](Agostina_rollan.md)
+- [Michlig, María de los Ángeles](maria_michlig.md)
 
 ## Script de prueba
 
